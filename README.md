@@ -1,1 +1,1 @@
-# pindorama-rest-api
+# pindorama-web
