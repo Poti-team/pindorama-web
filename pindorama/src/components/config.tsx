@@ -1,0 +1,1 @@
+// comp para quando se clica no icone de configurações
